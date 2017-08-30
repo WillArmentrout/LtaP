@@ -1,0 +1,201 @@
+# Name,time_stamp,field1,field2
+scientist n:0,2017-7-2 17:28:42,rocks,oceans
+scientist n:1,2017-8-5 13:35:37,oceans,rocks
+scientist n:2,2017-7-28 19:24:41,the human body,animals
+scientist n:3,2017-8-7 10:21:43,the brain,chemicals
+scientist n:4,2017-7-19 11:40:9,weather,machines
+scientist n:5,2017-7-1 18:56:10,rocks,energy
+scientist n:6,2017-8-24 14:42:41,matter,weather
+scientist n:7,2017-8-29 12:9:55,the human body,medicine
+scientist n:8,2017-8-1 10:0:12,the human body,matter
+scientist n:9,2017-7-28 11:33:7,cells,plants
+scientist n:10,2017-7-20 20:53:29,rocks,matter
+scientist n:11,2017-8-13 12:55:41,weather,animals
+scientist n:12,2017-8-11 15:30:59,machines,chemicals
+scientist n:13,2017-7-3 9:39:51,medicine,the brain
+scientist n:14,2017-8-26 15:48:7,the environment,animals
+scientist n:15,2017-7-5 12:24:10,the brain,matter
+scientist n:16,2017-7-7 19:50:30,the brain,rocks
+scientist n:17,2017-7-25 11:17:45,machines,the human body
+scientist n:18,2017-8-27 16:1:40,cells,animals
+scientist n:19,2017-8-23 15:17:32,oceans,animals
+scientist n:20,2017-8-16 17:31:8,rocks,plants
+scientist n:21,2017-8-16 15:49:15,animals,the human body
+scientist n:22,2017-7-17 19:20:51,computers,the brain
+scientist n:23,2017-7-14 18:42:21,energy,
+scientist n:24,2017-8-23 13:50:7,the environment,
+scientist n:25,2017-8-8 10:40:18,cells,computers
+scientist n:26,2017-8-30 17:24:15,rocks,medicine
+scientist n:27,2017-8-29 19:46:0,machines,the human body
+scientist n:28,2017-7-18 8:54:38,animals,
+scientist n:29,2017-7-6 14:51:55,rocks,energy
+scientist n:30,2017-8-20 14:22:21,plants,matter
+scientist n:31,2017-7-12 12:45:51,the environment,computers
+scientist n:32,2017-7-29 16:43:29,the human body,cells
+scientist n:33,2017-7-11 10:49:44,medicine,chemicals
+scientist n:34,2017-7-20 18:12:46,animals,the brain
+scientist n:35,2017-8-14 20:58:11,the human body,chemicals
+scientist n:36,2017-8-28 12:7:27,chemicals,
+scientist n:37,2017-8-20 13:57:36,oceans,rocks
+scientist n:38,2017-8-24 18:49:29,animals,rocks
+scientist n:39,2017-8-28 16:8:26,energy,cells
+scientist n:40,2017-8-15 18:43:8,energy,computers
+scientist n:41,2017-8-12 9:10:45,weather,the environment
+scientist n:42,2017-7-4 17:59:46,weather,plants
+scientist n:43,2017-8-25 13:51:38,oceans,plants
+scientist n:44,2017-8-8 9:23:44,space,the human body
+scientist n:45,2017-7-23 14:26:57,cells,machines
+scientist n:46,2017-8-12 15:53:1,space,matter
+scientist n:47,2017-8-13 12:46:39,chemicals,medicine
+scientist n:48,2017-8-24 9:0:47,energy,machines
+scientist n:49,2017-7-22 12:15:20,space,engineering
+scientist n:50,2017-7-5 11:3:40,the human body,medicine
+scientist n:51,2017-8-22 11:49:4,medicine,the human body
+scientist n:52,2017-7-11 8:42:24,oceans,machines
+scientist n:53,2017-8-8 16:17:54,engineering,weather
+scientist n:54,2017-7-10 17:36:3,animals,
+scientist n:55,2017-7-28 9:18:6,the human body,rocks
+scientist n:56,2017-8-15 15:54:24,oceans,weather
+scientist n:57,2017-7-4 14:39:31,the human body,engineering
+scientist n:58,2017-7-30 18:45:53,the brain,animals
+scientist n:59,2017-7-19 20:16:40,the brain,energy
+scientist n:60,2017-7-4 17:29:40,animals,machines
+scientist n:61,2017-8-14 18:1:33,space,oceans
+scientist n:62,2017-7-1 10:37:40,oceans,the environment
+scientist n:63,2017-7-10 18:58:17,cells,weather
+scientist n:64,2017-7-25 18:42:56,medicine,engineering
+scientist n:65,2017-8-26 12:37:18,machines,energy
+scientist n:66,2017-7-1 9:18:25,weather,
+scientist n:67,2017-8-18 15:29:42,engineering,space
+scientist n:68,2017-7-15 14:56:11,the environment,engineering
+scientist n:69,2017-8-21 17:41:25,the environment,matter
+scientist n:70,2017-7-23 11:36:15,medicine,animals
+scientist n:71,2017-7-3 14:42:30,weather,machines
+scientist n:72,2017-8-29 11:47:32,engineering,
+scientist n:73,2017-7-24 17:5:16,energy,machines
+scientist n:74,2017-8-27 18:39:48,engineering,medicine
+scientist n:75,2017-8-10 8:36:9,animals,cells
+scientist n:76,2017-8-31 21:20:21,machines,animals
+scientist n:77,2017-7-25 11:12:22,energy,chemicals
+scientist n:78,2017-7-23 11:23:36,matter,the brain
+scientist n:79,2017-7-6 21:43:8,the human body,plants
+scientist n:80,2017-7-3 9:21:8,plants,the brain
+scientist n:81,2017-8-25 13:59:4,chemicals,machines
+scientist n:82,2017-8-2 14:0:48,engineering,the environment
+scientist n:83,2017-8-22 13:12:47,cells,chemicals
+scientist n:84,2017-8-9 20:38:5,machines,the environment
+scientist n:85,2017-8-30 16:2:18,cells,the human body
+scientist n:86,2017-7-10 11:21:41,energy,matter
+scientist n:87,2017-7-13 9:51:32,space,rocks
+scientist n:88,2017-7-18 19:36:27,engineering,machines
+scientist n:89,2017-8-31 18:3:27,the environment,matter
+scientist n:90,2017-8-1 15:20:28,cells,the brain
+scientist n:91,2017-8-2 14:42:28,medicine,the environment
+scientist n:92,2017-8-3 18:21:29,the environment,engineering
+scientist n:93,2017-7-10 9:12:7,rocks,chemicals
+scientist n:94,2017-8-17 15:5:14,computers,
+scientist n:95,2017-7-25 12:40:20,engineering,chemicals
+scientist n:96,2017-8-11 12:30:49,engineering,animals
+scientist n:97,2017-8-7 14:58:15,engineering,space
+scientist n:98,2017-7-30 10:6:58,engineering,the environment
+scientist n:99,2017-8-16 13:17:15,the human body,
+scientist n:100,2017-7-4 11:31:17,plants,the human body
+scientist n:101,2017-8-28 20:16:1,the brain,machines
+scientist n:102,2017-7-14 15:24:26,chemicals,computers
+scientist n:103,2017-7-17 8:7:26,engineering,chemicals
+scientist n:104,2017-8-20 8:37:39,the brain,rocks
+scientist n:105,2017-8-13 16:7:13,oceans,
+scientist n:106,2017-8-17 16:27:26,animals,engineering
+scientist n:107,2017-8-1 12:54:36,oceans,
+scientist n:108,2017-7-8 16:26:27,the human body,weather
+scientist n:109,2017-8-2 15:7:17,weather,engineering
+scientist n:110,2017-8-17 15:53:45,engineering,matter
+scientist n:111,2017-8-31 20:25:15,animals,space
+scientist n:112,2017-8-23 8:36:38,oceans,engineering
+scientist n:113,2017-7-1 10:1:34,space,machines
+scientist n:114,2017-7-20 18:6:14,machines,oceans
+scientist n:115,2017-8-31 12:54:48,the brain,cells
+scientist n:116,2017-8-21 13:13:16,the human body,cells
+scientist n:117,2017-7-13 13:40:31,matter,animals
+scientist n:118,2017-8-14 15:6:39,the brain,rocks
+scientist n:119,2017-8-8 21:19:51,cells,computers
+scientist n:120,2017-8-31 12:33:28,machines,animals
+scientist n:121,2017-7-13 17:57:25,matter,cells
+scientist n:122,2017-8-17 9:31:2,space,cells
+scientist n:123,2017-7-2 18:2:15,space,the environment
+scientist n:124,2017-7-16 15:53:13,chemicals,matter
+scientist n:125,2017-7-22 14:39:31,cells,oceans
+scientist n:126,2017-7-17 13:51:9,animals,the brain
+scientist n:127,2017-7-3 19:43:42,chemicals,engineering
+scientist n:128,2017-7-6 14:52:34,space,weather
+scientist n:129,2017-8-17 8:46:58,oceans,energy
+scientist n:130,2017-7-5 9:2:35,chemicals,computers
+scientist n:131,2017-8-16 21:55:33,machines,weather
+scientist n:132,2017-7-9 10:24:19,plants,engineering
+scientist n:133,2017-7-12 21:1:37,matter,medicine
+scientist n:134,2017-7-10 14:47:56,oceans,medicine
+scientist n:135,2017-8-23 9:19:27,engineering,the environment
+scientist n:136,2017-7-12 9:7:53,rocks,the human body
+scientist n:137,2017-8-21 14:29:49,medicine,oceans
+scientist n:138,2017-8-19 21:11:17,energy,computers
+scientist n:139,2017-8-3 16:56:4,oceans,energy
+scientist n:140,2017-7-9 9:37:16,the environment,the brain
+scientist n:141,2017-8-24 13:53:42,weather,computers
+scientist n:142,2017-8-18 19:27:38,weather,matter
+scientist n:143,2017-8-18 13:58:46,engineering,the brain
+scientist n:144,2017-7-7 17:45:36,matter,energy
+scientist n:145,2017-8-6 9:45:18,cells,the brain
+scientist n:146,2017-8-19 8:26:2,rocks,computers
+scientist n:147,2017-7-18 17:42:3,animals,computers
+scientist n:148,2017-7-13 20:13:1,chemicals,cells
+scientist n:149,2017-8-6 17:20:34,weather,animals
+scientist n:150,2017-8-16 15:56:55,cells,the environment
+scientist n:151,2017-8-25 21:11:13,machines,space
+scientist n:152,2017-7-16 11:34:14,oceans,matter
+scientist n:153,2017-7-24 14:50:57,rocks,machines
+scientist n:154,2017-8-6 20:35:45,computers,animals
+scientist n:155,2017-8-17 15:44:14,oceans,rocks
+scientist n:156,2017-7-24 14:14:30,energy,matter
+scientist n:157,2017-8-2 11:7:47,weather,the environment
+scientist n:158,2017-7-3 19:33:8,matter,energy
+scientist n:159,2017-8-18 16:22:49,plants,cells
+scientist n:160,2017-8-13 18:6:29,the brain,medicine
+scientist n:161,2017-8-21 15:45:35,computers,plants
+scientist n:162,2017-7-2 9:43:9,energy,machines
+scientist n:163,2017-8-10 12:6:7,engineering,machines
+scientist n:164,2017-7-3 21:25:58,weather,oceans
+scientist n:165,2017-8-24 14:30:49,the environment,space
+scientist n:166,2017-7-2 18:46:39,cells,energy
+scientist n:167,2017-8-24 15:42:10,the environment,the brain
+scientist n:168,2017-8-25 20:15:48,oceans,the brain
+scientist n:169,2017-7-19 10:49:24,plants,computers
+scientist n:170,2017-8-8 19:0:28,matter,space
+scientist n:171,2017-8-6 17:36:24,oceans,animals
+scientist n:172,2017-7-23 15:23:6,space,matter
+scientist n:173,2017-8-28 18:44:57,space,energy
+scientist n:174,2017-8-22 20:45:46,energy,matter
+scientist n:175,2017-7-9 16:48:12,engineering,matter
+scientist n:176,2017-8-22 21:0:53,computers,the brain
+scientist n:177,2017-7-27 19:45:35,computers,machines
+scientist n:178,2017-7-9 21:8:59,weather,plants
+scientist n:179,2017-8-11 15:48:42,plants,the environment
+scientist n:180,2017-7-28 14:59:14,plants,energy
+scientist n:181,2017-7-6 19:58:23,plants,space
+scientist n:182,2017-8-8 10:52:16,the human body,engineering
+scientist n:183,2017-7-30 13:10:30,the environment,plants
+scientist n:184,2017-8-3 10:16:13,chemicals,plants
+scientist n:185,2017-8-28 21:23:29,weather,energy
+scientist n:186,2017-7-21 19:48:48,the human body,oceans
+scientist n:187,2017-7-27 18:27:56,cells,machines
+scientist n:188,2017-8-10 20:12:6,the brain,oceans
+scientist n:189,2017-7-29 15:45:44,animals,plants
+scientist n:190,2017-7-21 9:18:8,cells,the brain
+scientist n:191,2017-8-22 12:49:40,computers,
+scientist n:192,2017-8-7 8:2:43,animals,weather
+scientist n:193,2017-8-22 11:26:43,oceans,animals
+scientist n:194,2017-7-15 11:5:49,medicine,space
+scientist n:195,2017-8-7 18:29:4,chemicals,energy
+scientist n:196,2017-7-26 11:44:52,oceans,computers
+scientist n:197,2017-7-6 21:56:37,oceans,computers
+scientist n:198,2017-7-15 12:22:20,computers,matter
+scientist n:199,2017-7-10 21:50:4,chemicals,engineering
