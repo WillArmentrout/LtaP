@@ -1,16 +1,5 @@
-# collaboratr
-Connecting people with expertise to those who want to learn or collaborate.
+# Automated science penpal matching
 
-Are you planning a hack week and need some help matching up attendees for optimal learning? Check out [this notebook](https://nbviewer.jupyter.org/github/benelson/collaboratr/blob/master/Collaborator.ipynb) to find out how!
+This repo hosts some tools we've used for a science penpal program. The goal is to connect grade-school students with scientists based on similar science interests.
 
-## Requirements
-* networkx-1.1
-* nxpd-0.2.0
-
-## Installation
-If you get an error when trying to draw graphs like `dyld: Library not loaded: /usr/lib/libltdl.7.dylib`, try
-```
-$> brew install libtool
-$> brew link libtool
-```
 ![badge-img](https://img.shields.io/badge/Made%20at-%23AstroHackWeek-8063d5.svg?style=flat)
