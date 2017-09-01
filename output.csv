@@ -1,0 +1,531 @@
+# First Name, Last Name, email, First Name, Last Name, field,enthusiasm,grade, professor
+David,Huyben,david.huyben@slu.se,demarcus,wright,animals,5,5th,Ms. Wojnar
+Sophia,Fletcher,sfletcher@unm.edu,Khalil ,Martinez,machines,5,5th,Ms. Wojnar
+Kirk,Eisenbeis,ps-ke1c@snkmail.com,Miguel ,Vasquez,machines,5,5th,Ms. Wojnar
+Melissa,Puga,melissa_puga@live.com,Jayden ,Mendoza,chemicals,5,5th,Ms. Wojnar
+Kwaku,Farkye,kwaku@alphamiddle.com,Nahian ,Abadin,computers,5,5th,Ms. Wojnar
+Liz,Marchio,elizabeth.marchio@gmail.com,Isiah ,Cain,animals,5,5th,Ms. Wojnar
+Laura,Helmers,laura.helmers@gmail.com,Qualyn,Estrada,chemicals,5,5th,Ms. Wojnar
+Andrea,Sánchez,andrea.sanchez4@upr.edu,Quala Jade,Cox,the human body,5,5th,Ms. Wojnar
+Felipe,Lopez,lopezfe@umich.edu,Jason,Bradley ,machines,5,5th,Ms. Wojnar
+Tristan,Thomas,thomastb4@appstate.edu,Lynnea Ford,Williams,animals,5,5th,Ms. Wojnar
+Alliya,Akhtar,aakhtar@princeton.edu,Amiyah ,Gilbert,animals,5,5th,Ms. Wojnar
+Casey,Caprini,caseycaprini@gmail.com,Mamadou,Bah,machines,5,5th,Ms. Wojnar
+Jonathan,Brier,brierjon@umd.edu,Thierry ,Negoue,computers,5,5th,Ms. Wojnar
+Brandon,Jennings,bjennings63@gmail.com,Christerpher,Norman,computers,5,5th,Ms. Wojnar
+Robin,Lorenz,rlorenz@uabmc.edu,Syncere,Molina,medicine,5,5th,Ms. Wojnar
+Jacqueline,Gamboa,jacqueline_gamboa@harvard.edu,Ashley,Brito,chemicals,5,5th,Ms. Wojnar
+Jacqueline,Bort,jacquelinebort@gmail.com,Joanie,Love,animals,5,5th,Ms. Wojnar
+Christin,Khan,Christin.Khan@noaa.gov,Geraldine,Gonell,animals,5,5th,Ms. Wojnar
+Christine,Crowell,Lymancm@gmail.com,Ndalekeng,Fomenky,machines,5,5th,Ms. Wojnar
+Anahita,Zare,anahita.zare@gmail.com,Eddy,Hart,chemicals,5,5th,Ms. Wojnar
+Christina,DeLeon,tedeleon@ucdavis.edu,Jacob,Montiel,chemicals,5,5th,Ms. Wojnar
+Utkars,Jain,UTJ1@pitt.edu,Eryk,Romero,computers,5,5th,Ms. Wojnar
+Meredith,Lutz,mclutz@ucdavis.edu,Alexandra,Capellan,animals,5,5th,Ms. Wojnar
+Caitlin,Curry,cjcurry@cvm.tamu.edu,Alia ,Atchabao,animals,5,5th,Ms. Wojnar
+Kevin,Skinner,kevincs@umich.edu,David,Pacheco,chemicals,5,5th,Ms. Wojnar
+Alexis,Raykhel,alexisizatt@gmail.com,Takoya ,Jones,computers,5,5th,Ms. Wojnar
+Aaron,Haiman,agincourt82@hotmail.com,Brianna ,Alamo,animals,5,5th,Ms. Wojnar
+Nicole,Kuntjoro,n.m.kuntjoro@gmail.com,Roan ,Benjamin,machines,5,5th,Ms. Wojnar
+Shannon,Wetzler,swetzler@umich.edu,Henry,A,chemicals,5,5th,Ms. Wojnar
+Amanda,Kowalczyk,kowaae22@pitt.edu,Johan,Liranzo,computers,5,5th,Ms. Wojnar
+Maricely,Ramirez,maricely.ramirez@upr.edu,Mercedes,De Los Santos,chemicals,5,5th,Ms. Wojnar
+Alex,Gurvich,agurvich@u.northwestern.edu,Ellis,Javier,space,5,5th,Ms. Wojnar
+Neetha,Iyer,njaya.iyer@gmail.com,Ian,James,animals,5,5th,Ms. Wojnar
+Albert,Kao,albert.kao@gmail.com,Jaelyn,Paulino,animals,5,5th,Ms. Wojnar
+Francine,Schevenhoven,francine.schevenhoven@uib.no,Massiga,Gassama,weather,5,5th,Ms. Wojnar
+Brandon,Burger,brb115@pitt.edu,mariama,diallo,medicine,5,5th,Ms. Wojnar
+Kristy,Holme,kjweaver@umich.edu,Oumou,Sow,the human body,5,5th,Ms. Wojnar
+Srujan,Dadi,SRD76@pitt.edu,Aichatou,Konate,the human body,5,5th,Ms. Wojnar
+Susej,Ramos,susejramosdelgado@gmail.com,Anel,Mercado,chemicals,5,5th,Ms. Wojnar
+Asia,Murphy,aum432@psu.edu,Ndeye,Diagne,animals,5,5th,Ms. Wojnar
+Catherine,Chen,catherine.chen@unc.edu,brianna,gonzalez,animals,5,5th,Ms. Wojnar
+Jenna,Schabdach,jms565@pitt.edu,Jaylyn,Lopez,computers,5,5th,Ms. Wojnar
+Danielle,Claar,danielle.claar@gmail.com,ANthony,hernandez,oceans,5,5th,Ms. Wojnar
+Grace,Farley,gracemfarley@gmail.com,haji,dotson,animals,5,5th,Ms. Wojnar
+Andrea,Schilling,aln81@pitt.edu,cayla,johnson,machines,5,5th,Ms. Wojnar
+Rosa,Vasquez,rosave@umich.edu,sean,grcia,chemicals,5,5th,Ms. Wojnar
+Erica,Baker,baker458@purdue.edu,joelle,reed,chemicals,5,5th,Ms. Wojnar
+Jan-Louis,Cosme,janjo3@hotmail.com,Evan,Torres,chemicals,5,5th,Ms. Wojnar
+Taylor,Reiter,taylorreiter@gmail.com,Henry,cain,computers,5,5th,Ms. Wojnar
+Katarina,Klett,kck27@pitt.edu,Fanta,Sangare,medicine,5,5th,Ms. Wojnar
+Lindy,Bowen,elbowen@mmm.com,Goundo,Fofana,engineering,5,5th,Ms. Wojnar
+Elizabeth,Maroon,lizthered@gmail.com,Jayden,Gomez,weather,5,5th,Ms. Wojnar
+Carolyn,Fisher,carolynlaura16@gmail.com,Saniya,Martin,chemicals,5,5th,Ms. Wojnar
+Henry,Phalen,henryphalen@gmail.com,amariah,morrison,engineering,5,5th,Ms. Wojnar
+Nelwyn,Mohrmann,mohrmann78@gmail.com,xavier,CLemmons,machines,5,5th,Ms. Wojnar
+Shaylon,Stolk,sb.stolk@gmail.com,Kelvin,Torres,computers,5,5th,Ms. Wojnar
+Gregor,McEwan,gfmcewan@gmail.com,Jeremiah,Douglas,computers,5,5th,Ms. Wojnar
+Sean,Sterrett,seansterrett23@gmail.com,Terry-Ann,Ellis,animals,5,5th,Ms. Wojnar
+Angie,Tse,atse@mercy.edu,Anayjah,looby,chemicals,5,5th,Ms. Wojnar
+Duane,Dier,dddier+prescientist@gmail.com,Leanna,rodas,space,5,5th,Ms. Wojnar
+Nocona,Sanders,nocona@umich.edu,alfredo,woods,engineering,5,5th,Ms. Wojnar
+Sarah,Crites,sarahcrites@gmail.com,hugo,marcos,space,5,5th,Ms. Wojnar
+Kelsey,Mengle,kmengle@umich.edu,Jose,Flores,machines,5,5th,Ms. Wojnar
+Ariel,Gaffney,ariel_gaffney@fws.gov,Kashanna,Brock,animals,5,5th,Ms. Wojnar
+Jesse,Fox,fox.775@osu.edu,Wilhemina,Atise,computers,5,5th,Ms. Wojnar
+Neil,Graves,gravesn@state.gov,Daphne,Villatoro,computers,5,5th,Ms. Wojnar
+Lynée,Massey,lynee.massey@gmail.com,Jhon,Lima,chemicals,5,5th,Ms. Wojnar
+Meredith,Giblin,meredith.j.giblin@gmail.com,isabella,godspower,disecting,5,5th,Ms. Wojnar
+Jade,Marks,jadeashleymarks@gmail.com,rodrigo,ventura,aliens,5,5th,Ms. Wojnar
+Mohammad,Islam,mazhar.che@gmail.com,cristopher,alvarez,engineering,5,5th,Ms. Wojnar
+Lydia,Babcock-Adams,lydiaba@mit.edu,yasmin,rivas,oceans,5,5th,Ms. Wojnar
+alex,metelow,anm242@pitt.edu,josue,sanchez,engineering,5,5th,Ms. Wojnar
+Erin,Dahlstrom,erin.dahlstrom@gmail.com,Ana,Canul,animals,5,5th,Ms. Wojnar
+Jennifer,McHale,jenmchale@gmail.com,Dayron,Diaz,engineering,5,5th,Ms. Wojnar
+Farah,Khan,fak19@pitt.edu,Josue,Sanchez,engineering,5,5th,Ms. Wojnar
+Jessica,Martin,mart1789@msu.edu,Dalayna,Ortiz,medicine,5,5th,Ms. Wojnar
+Taylor,Sehein,trsehein@gmail.com,diego,cortez,oceans,5,5th,Ms. Wojnar
+Kritika,Ramani,kritika.30@gmail.com,Felix,Lara,medicine,5,5th,Ms. Wojnar
+Laura,Mallard,mallardl@appstate.edu,Lelis,Landaverde,rocks,5,5th,Ms. Wojnar
+Jamie,Do,jamiepdo@umich.edu,Diego,Cortez,medicine,5,5th,Ms. Wojnar
+Sherry,Lippiatt,sherry.lippiatt@noaa.gov,leslie,gonzalez,oceans,5,5th,Ms. Wojnar
+Gines,Hidalgo Martinez,gineshidalgo99@gmail.com,stephanie,zarate,computers,5,5th,Ms. Wojnar
+Anna,Hodshire,dancingmeese@gmail.com,stephanie,zarate,computers,5,5th,Ms. Wojnar
+Margaret,Landis,margaretlandis@gmail.com,anthony,vasquez,space,5,5th,Ms. Wojnar
+Grace,Brueggman,gab75@pitt.edu,saul,nava,engineering,5,5th,Ms. Wojnar
+Sarah,Peacock,sjpd58@mail.missouri.edu,jose,aguirre,the human body,5,5th,Ms. Wojnar
+Nick,Wagner,monsieurwagner@gmail.com,Anahi,Tamayo,computers,5,5th,Ms. Wojnar
+Michelle,Thompson,michellesusanthompson@gmail.com,anthony,vasquez,space,5,5th,Ms. Wojnar
+Judy,Xie,judy.jw.xie@gmail.com,Esmeralda,Peregrina,engineering,5,5th,Ms. Wojnar
+Alison,Cleary,alison.cleary@npolar.no,Cosaki,Cruz,animals,5,5th,Ms. Wojnar
+Sheryl,Hosler,sherylhosler@gmail.com,andrew,mejia,animals,5,5th,Ms. Wojnar
+Laura,Babcock,lbabcock@gmail.com,Rosa,Castro,Doctor,5,5th,Ms. Wojnar
+Kelsey,Lyberger,klyberger@ucdavis.edu,Georsary,Lopez,animals,5,5th,Ms. Wojnar
+Nikka,Khorsandi,nikkakhorsandi@yahoo.com,victoria,bosch,medicine,5,5th,Ms. Wojnar
+Shelly,McCain,scmccain@crimson.ua.edu,frank,Cresencio,animals,5,5th,Ms. Wojnar
+Sean,Aubin,saubin@uwaterloo.ca,Alex,Perez,computers,5,5th,Ms. Wojnar
+Emily,Estes,eestes@udel.edu,marie,gonzalez,oceans,5,5th,Ms. Wojnar
+Michael,Peng,michael_peng@icloud.com,victoria,bosch,medicine,5,5th,Ms. Wojnar
+Madelaine,Gogol,mcm@stowers.org,Elmer,Rocha,computers,5,5th,Ms. Wojnar
+Mandy,Hung,hung.mandy.15@gmail.com,geovany,sosa,machines,5,5th,Ms. Wojnar
+Corinne,Dorais,cdorais@nd.edu,Aaron,Calero,rocks,5,5th,Ms. Wojnar
+Kathleen,Vander Kaaden,kathleenvk17@gmail.com,paul,sanchez,space,5,5th,Ms. Wojnar
+Maia,Persche,persche@wisc.edu,Dominick,Mitchell,animals,5,5th,Ms. Wojnar
+Aaron,Pung,aaron.pung@gmail.com,jason,solano,engineering,5,5th,Ms. Wojnar
+Meghan,Jones,meghanj@mit.edu,Luisa ,Cruz,rocks,5,5th,Ms. Wojnar
+Patricia,MacQueen,pmacquee@gmail.com,Luis,martinez,rocks,5,5th,Ms. Wojnar
+Risa,Pesapane,rrpesapane@ucdavis.edu,Josue,Barrera,animals,5,5th,Ms. Wojnar
+Lindsay,Oakley,lhoakley01@gmail.com,Christian ,Villalobos,computers,5,5th,Ms. Wojnar
+Zaeda,Larkin,zaedalarkin@aol.com,jalynn,burns,chemicals,5,5th,Ms. Wojnar
+Hannah,Herde,hherde@brandeis.edu,hanad,ahmed,matter,5,5th,Ms. Wojnar
+Audrey,Arner,ama6560@psu.edu,Ximena,Cruz,animals,5,5th,Ms. Wojnar
+Stephen,White,STW59@pitt.edu,Reel,Mohamed,medicine,5,5th,Ms. Wojnar
+Julie,Liao,liao.julie.s@gmail.com,emaline,castle,medicine,5,5th,Ms. Wojnar
+Martha,Wohlfeil,wohlfeil.martha@gmail.com,jaya,wade,animals,5,5th,Ms. Wojnar
+Meghan,Breen,breenme@umich.edu,karlton,ferguson,chemicals,5,5th,Ms. Wojnar
+Kim,Wood,kimberly.wood@msstate.edu,Ty,Reyna,weather,5,5th,Ms. Wojnar
+Margaret,Hammersley,mabrunet@mtu.edu,Christian,Villalobos,machines,5,5th,Ms. Wojnar
+Rebecca,McGrail,rmcgrail1@me.com,adriana,correa,Docter,5,5th,Ms. Wojnar
+Erin,Macdonald,erin.pat.mac@gmail.com,Melanie,Cuenca ,space,5,5th,Ms. Wojnar
+Lisa,Natale,lisa.natale@colorado.edu,Daisy,Lagunas,computers,5,5th,Ms. Wojnar
+Julie,Ziemba,julie.ziemba25@uga.edu,Kenia,Rubio,animals,5,5th,Ms. Wojnar
+Henry,Camarillo,hcamaril@ksu.edu,Michael,Cuzco,animals,5,5th,Ms. Wojnar
+Marin,Palmer,marin.palmer@gmail.com,Cruz,Cortes,robotics,5,5th,Ms. Wojnar
+Jeremy,Felton,jfelton@umich.edu,Matthew ,Sorto,chemicals,5,5th,Ms. Wojnar
+Carol,Woodland,cwoodland@gmail.com,Sherry,Bailey,animals,5,5th,Ms. Wojnar
+Amy,Miles,amemiles@ucdavis.edu,Kaiden,Hughes,animals,5,5th,Ms. Wojnar
+Victoria,Farrar,victoriasfarrar@gmail.com,Kayla,Nolan,animals,5,5th,Ms. Wojnar
+Esther,Kukielka,ekukielka1@gmail.com,Kelsi,Guerrier,animals,5,5th,Ms. Wojnar
+Disha,Okhai,dokhai@wellesley.edu,Austin,Gardner,rocks,5,5th,Ms. Wojnar
+Jay,Brett,gbrett@mit.edu,Wyatt,Fox,oceans,5,5th,Ms. Wojnar
+Carver,Lee,carver.e.lee@vanderbilt.edu,Savannah,Larson,rocks,5,5th,Ms. Wojnar
+Annelise,Del Rio,amdelrio@ucdavis.edu,madison,simon,animals,5,5th,Ms. Wojnar
+Serina,Brady,ssbrady3@unm.edu,Abigail,Mozina,animals,5,5th,Ms. Wojnar
+Mary,Caruso Dailey,mmcaruso@mmm.com,kennedy,leto,chemicals,5,5th,Ms. Wojnar
+Catie,Alves,calves06@live.unc.edu,Carrie-Ann,Canterbury,oceans,5,5th,Ms. Wojnar
+Karen,Poh,karenpoh@tamu.edu,kurtis,williams,animals,5,5th,Ms. Wojnar
+Maddie,Halloran,halloran.madison@gmail.com,Abram,Morales,animals,5,5th,Ms. Wojnar
+Meghan,Balk,meghan.balk@gmail.com,Jenifer,Pena,animals,5,5th,Ms. Wojnar
+Robbie,Richards,robert.richards@uga.edu,Melinda,Alpizar,animals,5,5th,Ms. Wojnar
+Sandi,Jones,sandi9rn@gmail.com,Willow,Burger,the human body,5,5th,Ms. Wojnar
+Kim,Miles,kimmiles@ucdavis.edu,Liam,Hanna,rocks,5,5th,Ms. Wojnar
+Michelle,Stitzer,mcstitzer@ucdavis.edu,Nicholas,Zeiter,computers,5,5th,Ms. Wojnar
+Ana,Vazquez,anasofia@mit.edu,christopher,vandersommen,machines,5,5th,Ms. Wojnar
+Laila,Rad,laila.rad5@gmail.com,Ryan,harris,engineering,5,5th,Ms. Wojnar
+April,Choi,april.boin.choi@gmail.com,Mateo,Kraus,Matter,Machines,Space,Computers, and cells.,5,5th,Ms. Wojnar
+Melissa,Macias,paleomel@gmail.com,Kaitlyn,Wolcott,rocks,5,5th,Ms. Wojnar
+Will,Webb,wmwebb89@uab.edu,Nathan,Kessler,the brain,5,5th,Ms. Wojnar
+Claire,Teitelbaum,cteitelbaum@uga.edu,Hailee,Smith,animals,5,5th,Ms. Wojnar
+Kevin,Emerson,kjemerson@smcm.edu,Drew,Thomas,animals,5,5th,Ms. Wojnar
+Anish,Puligilla,anp161@pitt.edu,imari,leathers,medicine,5,5th,Ms. Wojnar
+Madeline,Gottlieb,migottlieb@ucdavis.edu,Aleida,Estrada,forensic Scientist,5,5th,Ms. Wojnar
+Julie,Blommaert,jblommaert92@gmail.com,maria,bernal,animals,5,5th,Ms. Wojnar
+Melanie,Warren,mwarren@tamu.edu,Kirsten,Kommer,Medical Examiner ,5,5th,Ms. Wojnar
+Danee,Norris,jnorri00@gmail.com,kaila,jones,medicine,5,5th,Ms. Wojnar
+Katherine,Lainhart,kemichaux@gmail.com,armello,creer,chemicals,5,5th,Ms. Wojnar
+Ruth,Aronoff,ruth.aronoff@furman.edu,Nyomi,Gurley,rocks,5,5th,Ms. Wojnar
+Kylia,Williams,kyw13@pitt.edu,jaylante,black,computers,5,5th,Ms. Wojnar
+Henri,Drake,hdrake@mit.edu,nevaeh,adams,oceans,5,5th,Ms. Wojnar
+Kimberly,Van Meter,kvanmeter@uwaterloo.ca,Samiah,Creer,water,5,5th,Ms. Wojnar
+Austin,Plymill,austinplymill2021@u.northwestern.edu,daylynn,cook,energy,5,5th,Ms. Wojnar
+Narlesky,Narlesky,carlesky@alum.mit.edu,kenyon,sparrow,engineering,5,5th,Ms. Wojnar
+Zuleirys,Santana Rodriguez,zuleirys@umich.edu,nezehiah,ezell,video games,5,5th,Ms. Wojnar
+Jenna,Gustafson,jagustafs@gmail.com,seneca,morton,engineering,5,5th,Ms. Wojnar
+Julie,Barber-Rotenberg,julie.barber@gmail.com,kiauna,watford,chemicals,5,5th,Ms. Wojnar
+Allison,Phillips,alp49@duke.edu,jameecia,johnson,chemicals,5,5th,Ms. Wojnar
+Michelle,Landes,MBLandes1@gmail.com,anna,wittine,navy jets,5,5th,Ms. Wojnar
+Kaylee,Herzog,ksherzog@ku.edu,Lanise,Cousins,animals,5,5th,Ms. Wojnar
+Tim,Duerinck,tduerinc@vub.be,jason,Anderson,chemicals,5,5th,Ms. Wojnar
+Mary,Lancaster,maryl4@gmail.com,Kaelyn,Acosta,medicine,5,5th,Ms. Wojnar
+Taneisha,Gillyard,tgillyard13@email.mmc.edu,Dyunique,Gadson,the human body,5,5th,Ms. Wojnar
+Alex,Ayoub,bouya@umich.edu,Gold,Mustapha,the human body,5,5th,Ms. Wojnar
+Carly,Sombric,csombric@u.rochester.edu,azahel,hernandez,engineering,5,5th,Ms. Wojnar
+Kate,Withers,witherko@dukes.jmu.edu,Sharrelle,Tirado,animals,5,5th,Ms. Wojnar
+Bolton,Howes,bhowes@princeton.edu,Dijon,Sellers,rocks,5,5th,Ms. Wojnar
+Kelly,Wemyss,kelly.wemyss@postgrad.manchester.ac.uk,Kerly,Baustidas,the human body,5,5th,Ms. Wojnar
+Auriel,Fournier,aurielfournier@gmail.com,heaven,adams,animals,5,5th,Ms. Wojnar
+Kathryn,Rifenburg,krifenburg@gmail.com,gianna,slavec,video games,5,5th,Ms. Wojnar
+Barbara,Wilson,bwilson@peak.org,Donavan,Hopkins,video games,5,5th,Ms. Wojnar
+Hannah,Donald-Cannon,hdonald1@swarthmore.edu,Bella,Logan,animals,5,5th,Ms. Wojnar
+Luis,Schachner,luisschachner2015@u.northwestern.edu,riyan,mcabrew,chemicals,5,5th,Ms. Wojnar
+Nicholas,Weirath,nicholas.a.weirath@email.shc.edu,Hillary,White,chemicals,5,5th,Ms. Wojnar
+Abhijeet,Gujrati,abg30@pitt.edu,Jorge,Masquera,machines,5,5th,Ms. Wojnar
+Elizabeth,Wood,ladybeth4@gmail.com,Alethea,Vallade,chemicals,5,5th,Ms. Wojnar
+Katrina,Sutherland,bsu70b@bangor.ac.uk,Precious,Omosive,animals,5,5th,Ms. Wojnar
+Stephanie,Mack,samack26@gmail.com,Marilyn,Guity,computers,5,5th,Ms. Wojnar
+Tina,Kettinger,tinakettinger@gmail.com,Nya,Ramos,chemicals,5,5th,Ms. Wojnar
+Alexandria,Johnson,avjohns@mit.edu,Shawna,Grant-Stewart,weather,5,5th,Ms. Wojnar
+Kelly,Parker,kellyparker2021@u.northwestern.edu,Zimere,Doolittle,machines,5,5th,Ms. Wojnar
+Melissa,Merrick,merrickmj@gmail.com,Joyel ,Thomas,animals,5,5th,Ms. Wojnar
+Catherine,Herzog,catherine.herzog@gmail.com,Ashley,Pacheco,computers,5,5th,Ms. Wojnar
+Emily,Rollinson,ejrollinson@gmail.com,daell,mrogan,compers,5,5th,Ms. Wojnar
+Andrew,Wong,abwong@stanford.edu,damari,davis,energy,5,5th,Ms. Wojnar
+Christina,Jones,chmjones@umich.edu,damari,davis,energy,5,5th,Ms. Wojnar
+Matthew,Haas,haas@ipk-gatersleben.de,darell,mrogan,computers,5,5th,Ms. Wojnar
+Courtney,Kast,kastcourtney@gmail.com,javier,spencer,video games,5,5th,Ms. Wojnar
+Danielle,Santiago Ramos,d.santiago.ramos@gmail.com,floyd,johnson,rocks,5,5th,Ms. Wojnar
+Emily,Lane,emily.m.lane2016@gmail.com,shane,jarvis,video game,5,5th,Ms. Wojnar
+Dario,Prieto,prieto.dario@gmail.com,javier,spencer,machines,5,5th,Ms. Wojnar
+Christian,Contreras,contreras.christian001@gmail.com,James,Nolden,chemicals,5,5th,Ms. Wojnar
+Tasha,Myhill,natasha.myhill@postgrad.manchester.ac.uk,willette,murchison,the human body,5,5th,Ms. Wojnar
+Lydia,Kisley,lkisley11@gmail.com,jalynn,burns,chemicals,5,5th,Ms. Wojnar
+Stephanie,Januchowski-Hartley,stephierenee@gmail.com,Jordien,wilkerson,the environment,5,5th,Ms. Wojnar
+Erika,Amir-Lin,erika.amir@gmail.com,tunyria,watts,the environment,5,5th,Ms. Wojnar
+James,MacCarthy,james.maccarthy@gmail.com,Chamira,James,animals,5,5th,Ms. Wojnar
+Megan,Beck,meganbeck13@gmail.com,Amirrah,Taylor,machines,5,5th,Ms. Wojnar
+Scotty,Bobbitt,scobo06@gmail.com,brian,calwise,engineering,5,5th,Ms. Wojnar
+Andrew,Lang,al2025@wildcats.unh.edu,Storm,Rivera,cells,5,5th,Ms. Wojnar
+Emily,Beckman,emilybec@gmail.com,Gabriel,Ramirez,machines,5,5th,Ms. Wojnar
+Erin,Watson-Chappell,ewatso01@unm.edu,Janaiya,Pinkney,medicine,5,5th,Ms. Wojnar
+Angela,Zalucha,azalucha@seti.org,Danice,Jimenez,space,5,5th,Ms. Wojnar
+Ellie,Highwood,e.j.highwood@reading.ac.uk,Fanta,Miangadou,weather,5,5th,Ms. Wojnar
+Julie,Hinderer,jhinderer@glfc.org,Nyasia,Browne,volcanoes,5,5th,Ms. Wojnar
+Clara,Blattler,blattler@princeton.edu,Masaila,Gomez,disease,5,5th,Ms. Wojnar
+Johanna,Franklin,johanna.n.franklin@hofstra.edu,jon,briggs,computers,5,5th,Ms. Wojnar
+Matt,Wenzel,mawenzel@indiana.edu,jada,arias,computers,5,5th,Ms. Wojnar
+Izabela,Samek,izabelasamek2019@u.northwestern.edu,Arelis,villa perez,engineering,5,5th,Ms. Wojnar
+Paige,Souder,jsouder@uab.edu,joel,rodriguez,i love all science genetics,5,5th,Ms. Wojnar
+Rachael,Bonoan,Rachael.Bonoan@tufts.edu,Angelena,DePalma,animals,4,5th,Ms. Wojnar
+Anna,Lehmicke,Arondegenerate@hotmail.com,kelis,montgomery,animals,4,5th,Ms. Wojnar
+Erin,Diel,erindiel@gmail.com,timothy,wright,the brain,4,5th,Ms. Wojnar
+Matthew,Mendonca,mattmendonca34@gmail.com,Dariel ,Dominguez,chemicals,4,5th,Ms. Wojnar
+Michelle,Evans,mvevans@uga.edu,ronnie,drabek,egner,4,5th,Ms. Wojnar
+Heidi,Hatcher,hatcher.heidi@gmail.com,Brianna,Swinton,animals,4,5th,Ms. Wojnar
+David,Stephens,dstephense@gmail.com,Jaden,Colbourne,chemicals,4,5th,Ms. Wojnar
+Shannon,Kozlovich,s.kozlovich@wsu.edu,zeniah,lopez,chemicals,4,5th,Ms. Wojnar
+Megan,Roberts,mclarkeroberts@gmail.com,angela,hernanadez,medicine,4,5th,Ms. Wojnar
+Kevin,Yue,kyue1980@gmail.com,Aisha,Tall,engineering,4,5th,Ms. Wojnar
+Ben,Cowley,ifitetillend@gmail.com,fatima,jallow ,computers,4,5th,Ms. Wojnar
+Cody,Rausch,cr110@evansville.edu,Julian,Iglesias,chemicals,4,5th,Ms. Wojnar
+Stephanie,Juneau,juneau.stephanie@gmail.com,estefany,hernandez,space,4,5th,Ms. Wojnar
+Katy,Wimberly,wimberlm@uci.edu,Israel,Centeno,computers,4,5th,Ms. Wojnar
+Kyle,Delwiche,kyled@mit.edu,brianna,nieto,engineering,4,5th,Ms. Wojnar
+Craig,Beatty,craig.beatty@iucn.org,Destin,McClary,animals,4,5th,Ms. Wojnar
+Zach,Nasipak,zachnasipak@gmail.com,Nazzir,Washington,computers,4,5th,Ms. Wojnar
+Donnell,Gasbarrini,donnell.gasbarrini@gmail.com,ashanti,peters,animals,4,5th,Ms. Wojnar
+Lauren,Van Der Kraak,lav27@pitt.edu,Evy,Gomez,medicine,4,5th,Ms. Wojnar
+Maggie,Cloos,cloosmm0@sewanee.edu,Miguel ,Chavez,computers,4,5th,Ms. Wojnar
+Amanda,Adams,aadams@bio.tamu.edu,abrhan,molina,animals,4,5th,Ms. Wojnar
+Christine,Heisler,cnh27@pitt.edu,alexandro,puac,machines,4,5th,Ms. Wojnar
+Tijana,Martinov,tijana.martinov09@gmail.com,angelica,cruz,the human body,4,5th,Ms. Wojnar
+Julia,Schmitz,schmitzjm@gmail.com,Poema,Hernandez,the human body,4,5th,Ms. Wojnar
+Catherine,Herzog,catherine.herzog@gmail.com,Daniel ,Yerena,computers,4,5th,Ms. Wojnar
+Prajkta,Mane,pmane1@asu.edu,Leonardo,Garcia,space,4,5th,Ms. Wojnar
+Lily,Li,lillyl1@uci.edu,Jocelyn C.,Bustos,animals,4,5th,Ms. Wojnar
+Sarah,Wofford,sjwofford1@gmail.com,litzy,rodrguez,animals,4,5th,Ms. Wojnar
+Fernanda,Cárcamo,fernanda.carcamo@ug.uchile.cl,Anthony,vargas,engineering,4,5th,Ms. Wojnar
+Nick,VanAcker,vanack22@msu.edu,Brandon,Marquez,animals,4,5th,Ms. Wojnar
+Brit,Garner,brgrnr@gmail.com,Brandon,Marquez,animals,4,5th,Ms. Wojnar
+Tracie,McKinney,mckinney_monkey@yahoo.com,naydeli,nolasco,animals,4,5th,Ms. Wojnar
+Rebecca,Gerth,rjg35@pitt.edu,isai,morales,engineering,4,5th,Ms. Wojnar
+Rachel,Wigginton,rachel.wiggy@gmail.com,ismael,mendoza,aliens and other monsters,4,5th,Ms. Wojnar
+Kevin,Yue,kyue1980@gmail.com,Michael,Zavala,engineering,4,5th,Ms. Wojnar
+Melissa,Halford,mhalford@email.arizona.edu,Melvin,Reyes,computers,4,5th,Ms. Wojnar
+Kristin,Scoggin,kscoggin@tamu.edu,Rubi,Ochoa,the human body,4,5th,Ms. Wojnar
+Jill,Coumoutso,birdgrl8@hotmail.com,Madeline,Velasco,animals,4,5th,Ms. Wojnar
+Gloria ,Diaz ,gleldiaz@umich.edu,ammi,chacon,medicine,4,5th,Ms. Wojnar
+Emily,Hopper,emily.hopper353@gmail.com,Yoeli,Padilla,computers,4,5th,Ms. Wojnar
+Nancy,Chen,nanchen@ucdavis.edu,Hannah,Solorzano,animals,4,5th,Ms. Wojnar
+Geoffrey,Potjewyd,geoffrey.potjewyd@postgrad.manchester.ac.uk,Esmirna,Ramirez,toxic ,4,5th,Ms. Wojnar
+Sara,Shields,sara.shields@nicholls.edu,Isis,Delilah,computers,4,5th,Ms. Wojnar
+Ana,Jurcak,ajurcak@bgsu.edu,Leslie,Rojo,animals,4,5th,Ms. Wojnar
+Kayla,Hamelin,kay.hamelin@gmail.com,Diana,Luna,animals,4,5th,Ms. Wojnar
+Michelle,Desrosiers,michelle.desrosiers@gmail.com,Heidy,Mena,animals,4,5th,Ms. Wojnar
+Allison,Cowie,allison.cowie@odot.state.or.us,Yulissa,Gonzalez,plants,4,5th,Ms. Wojnar
+Morgan,Ivey,morganivey7@gmail.com,Kira,roberts,rocks,4,5th,Ms. Wojnar
+Magdalena,Esparza,mesparza@bcm.edu,Ashley,Salazar,medicine,4,5th,Ms. Wojnar
+Karson,Leperi,karsonleperi2018@u.northwestern.edu,yessemar,mateo,computers,4,5th,Ms. Wojnar
+Jessica,Lin,jeslin@ucdavis.edu,Richard,Gant,animals,4,5th,Ms. Wojnar
+Sarah,Paleg,sarahpaleg@gmail.com,Aminah,Nur lslam ,chemicals,4,5th,Ms. Wojnar
+Stephanie,Gervasi,sgervasi@monell.org,Michelle,loja,animals,4,5th,Ms. Wojnar
+Kimberley,Mullins,kim.a.mullins@gmail.com,hassan,hussein,computers,4,5th,Ms. Wojnar
+Niranjana,Krishnan,niranjanakrish@gmail.com,Brianna,Mccarroll,chemicals,4,5th,Ms. Wojnar
+Nicole,Moore,nmoore2@nd.edu,David,Gray-Caulker,chemicals,4,5th,Ms. Wojnar
+Michelle,Heusser,heusser.michelle@gmail.com,Mayra,Baez,machines,4,5th,Ms. Wojnar
+Angelica,Herrera,ajh146@pitt.edu,scarlet,nieto,machines,4,5th,Ms. Wojnar
+Travis,Schmauss,travis@u.northwestern.edu,Christopher ,Valencia,computers,4,5th,Ms. Wojnar
+Julie,Mitchell,julie.l.mitchell@gmail.com,Daphne,Forney,rocks,4,5th,Ms. Wojnar
+Liza,Bruk,liza.a.bruk@gmail.com,Chase,Fox,engineering,4,5th,Ms. Wojnar
+Amelia,Munson,aamunson@ucdavis.edu,Jayson,Petersen,animals,4,5th,Ms. Wojnar
+Darian,Colgrove,dariancolgrove@gmail.com,Alexander,Garcia,space,4,5th,Ms. Wojnar
+Benjamin,Schilling,bes111@pitt.edu,Andrea,Rodriguez,engineering,4,5th,Ms. Wojnar
+Lisa,Stabryla,lms162@pitt.edu,Elizabeth,Baca,engineering,4,5th,Ms. Wojnar
+Eric,Evangelista,eaevang@uw.edu,Alana,McDaniel,medicine,4,5th,Ms. Wojnar
+Rachel,Toczydlowski,toczydlowski@wisc.edu,riley,boldman,electricity,4,5th,Ms. Wojnar
+Kristen,Davis Moore,krd62@cornell.edu,Cameron,Grosswiler,animals,4,5th,Ms. Wojnar
+Roxana,Sava,oana-roxana.sava@postgrad.manchester.ac.uk,Dalaney,Wilde,the brain,4,5th,Ms. Wojnar
+Christine,Swanson,christineswanson@ufl.edu,Tyra,Corbin,animals,4,5th,Ms. Wojnar
+Isaac,Miller-Crews,imillercrews@utexas.edu,Cameron,Grosswiler,animals,4,5th,Ms. Wojnar
+Gina,Calabrese,gina.maria.calabrese@gmail.com,carlos,hernandez,animals,4,5th,Ms. Wojnar
+Audrey,Arner,ama6560@psu.edu,Cameron,Grosswiler,animals,4,5th,Ms. Wojnar
+Alicia,Bird,akbird@ucdavis.edu,Ava,Tyler,animals,4,5th,Ms. Wojnar
+Sarah,Flanagan,spflanagan.phd@gmail.com,Eian,Reineck,animals,4,5th,Ms. Wojnar
+gabrielle,corradino,gcorrad@ncsu.edu,Grant,Maloney,wildlife,4,5th,Ms. Wojnar
+Danielle,Dixson,Dixson@udel.edu,ronnie ,freeman,oceans,4,5th,Ms. Wojnar
+Marie,Cross,mpcross@uci.edu,Graciejane,Marett,Forensic Scientist,4,5th,Ms. Wojnar
+Devi,Santhosh,dsanthosh@wisc.edu,landon ,ward,the brain,4,5th,Ms. Wojnar
+Sean,McBride,smcbrid1@gmu.edu,Aleczavior,Beckwith,computers,4,5th,Ms. Wojnar
+Monica,Liu,monicaliu@pitt.edu,Delaynee,Proctor,engineering,4,5th,Ms. Wojnar
+Pallavi,Surana,surana.pallavi@gmail.com,Akeelah,Goshay,medicine,4,5th,Ms. Wojnar
+Shriyaa,Mittal,mittalshriyaa@gmail.com,siyere,deloach,chemicals,4,5th,Ms. Wojnar
+Will,King,wking13@lsu.edu,tarachell,thompson,medicine,4,5th,Ms. Wojnar
+Spiro,Sullivan,spsullivan@mail.missouri.edu,Hector,Gomez,animals,4,5th,Ms. Wojnar
+Leah,Rieff,leah.rieff@gmail.com,Morgan,sartin,medicine,4,5th,Ms. Wojnar
+Joanna,Shaw,jfs378@nyu.edu,britani ,bganuelos,medicine,4,5th,Ms. Wojnar
+Spencer,Weinstein,s.weinstein@tcu.edu,Tatiana,Maddox,the environment,4,5th,Ms. Wojnar
+Chris,Holderman,cholderman@central.com,brian,smith,animals,4,5th,Ms. Wojnar
+Meaghan,Pimsler,mlpimsler@ua.edu,Neil,Gallaway,animals,4,5th,Ms. Wojnar
+Katie,Cychosz,kcychosz@gmail.com,Jalina,Jackson,chemicals,4,5th,Ms. Wojnar
+Jonathan,Pfluger,jonathanpfluger2019@u.northwestern.edu,Jordan,Smith,energy,4,5th,Ms. Wojnar
+Linda,Toth,linda_toth@gensler.com,Joel,Lagares,computers,4,5th,Ms. Wojnar
+Erica,Tassone,erica.tassone@gmail.com,raylie,black,the human body,4,5th,Ms. Wojnar
+Renee,van Amerongen,r.vanamerongen@uva.nl,Leilani,Rosario,cells,4,5th,Ms. Wojnar
+Natalie,Pilakouta,npila1@gmail.com,Tatyana,Huertas,animals,4,5th,Ms. Wojnar
+James,Mason,jmason86@gmail.com,Jonah,Estrada,space,4,5th,Ms. Wojnar
+Kim,Unertl,kim.unertl@vanderbilt.edu,DaJuan,Thompson,engineering,4,5th,Ms. Wojnar
+Alyson,Lokken,alyson.lokken@gmail.com,Quincey,Platt,the human body,4,5th,Ms. Wojnar
+Leslie,Eudy,leslie.eudy@nrel.gov,Issa,Cisse,machines,4,5th,Ms. Wojnar
+Mitali,Patil,mitali.patil.1988@gmail.com,Asael,Diaz,the human body,4,5th,Ms. Wojnar
+Julienne,Ng,julienne.ng@colorado.edu,Dallas,Sadofsky,animals,4,5th,Ms. Wojnar
+Jeff,Kessler,jeff.kessler@gmail.com,Alexzandra,kimbrough,computers,4,5th,Ms. Wojnar
+Stephen,Wilke,stephenwilke2021@u.northwestern.edu,Siair,Swinney,computers,4,5th,Ms. Wojnar
+Kayla Ann,Krajick,kaylakrajick@gmail.com,Madisyn,Drake,medicine,4,5th,Ms. Wojnar
+Sarah,Reuter,snm4a@virginia.edu,Madisyn,Drake,medicine,4,5th,Ms. Wojnar
+Bentley,Wingert,bwingert89@gmail.com,Destiny,Ostolaza,the human body,4,5th,Ms. Wojnar
+Chris,Klemens,caklemens@gmail.com,Ceejay,Johnson,the human body,4,5th,Ms. Wojnar
+Sonia,Nosratinia,sonia1@berkeley.edu,jaseir,moore,plants,4,5th,Ms. Wojnar
+Kat,Volk,kat.volk@gmail.com,Josue,crespin,space,4,5th,Ms. Wojnar
+Bradley,Tolar,bradley.tolar@gmail.com,Kassidy,Vega,oceans,4,5th,Ms. Wojnar
+Kathryn,Powell,kathryn.powell@wustl.edu,samantha,vera,space,4,5th,Ms. Wojnar
+John,Uhlrich,jjuhlrich@gmail.com,juan,morales,computers,4,5th,Ms. Wojnar
+Attabey,Rodriguez-Benitez,attabey@umich.edu,jahniya,simmons,chemicals,4,5th,Ms. Wojnar
+Kathryn,deKrafft,kdekrafft@gmail.com,vinnay,pierce,chemicals,4,5th,Ms. Wojnar
+Lauren,Shoemaker,lshoemak@umn.edu,netiva,granville,ballet,3,5th,Ms. Wojnar
+Anna,Harley,anna.harleytr@gmail.com,jaedon,reyes,machines,3,5th,Ms. Wojnar
+Kelsi,West,kwest@medicine.tamhsc.edu,Chloe,Perry,the human body,3,5th,Ms. Wojnar
+Jessica,Ochoa,jmochoa@g.ucla.edu,Gabrielle ,Dia,chemicals,3,5th,Ms. Wojnar
+Aidan,Huene,aih5@pitt.edu,Ana ,Paulino,the solar system,3,5th,Ms. Wojnar
+Laura,Zschaechner,zschaechner@mpia.de,Luis,Garcia,space,3,5th,Ms. Wojnar
+Kristin,Duffield,krduffi@ilstu.edu,isaac,bueno,animals,3,5th,Ms. Wojnar
+Meagan,Yuen,meaganyuen@gmail.com,isaaca,bueno,the human body,3,5th,Ms. Wojnar
+Joshua,Raabe,joshua.raabe@uwsp.edu,Leslie,Juarez,animals,3,5th,Ms. Wojnar
+Serena,Caplins,sacaplins@ucdavis.edu,Max,Perucho,animals,3,5th,Ms. Wojnar
+Nick,Barts,barts2@ksu.edu,alexnadra,avalos,animals,3,5th,Ms. Wojnar
+Kindra,Whitlatch,chemistrybuff@gmail.com,ilana,roldan,medicine,3,5th,Ms. Wojnar
+Sophia,Tsang,sophia_tsang@alumni.brown.edu,Mirella,Guevara,rocks,3,5th,Ms. Wojnar
+William,Jones,William.jones@ebc.uu.se,AXELL,ALvizurez,animals,3,5th,Ms. Wojnar
+Lillian,Ostrach,lillian.r.ostrach@gmail.com,Cristian,Rocha,space,3,5th,Ms. Wojnar
+Elaine,Rhoades,erhoades3@gatech.edu,Mario,Diaz,computers,3,5th,Ms. Wojnar
+Andrew,Kondash,ajk46@duke.edu,adrian,zavala,energy,3,5th,Ms. Wojnar
+An,Truong,anptruong@ucdavis.edu,Adrian,rocha,chemicals,3,5th,Ms. Wojnar
+Sethanne,Howard,sethanneh@msn.com,Ana ,Paulio,space,3,5th,Ms. Wojnar
+Lydia,Evers,lydia.evers@humboldt.edu,Martha,Gonzalez,oceans,3,5th,Ms. Wojnar
+Meghan,Parsley,parsleymeghan1@gmail.com,Dassany,Alor,animals,3,5th,Ms. Wojnar
+Allyson,Ayalon,allysonayalon@gmail.com,Brisa,Perez,plants,3,5th,Ms. Wojnar
+Kaitlin,Stack Whitney,kxwsbi@rit.edu,Christian,Guzman,Technolygy,3,5th,Ms. Wojnar
+Emily,Bergmann,embergmann@gmail.com,Jacqueline,Barrios,plants,3,5th,Ms. Wojnar
+Caitlin,Eschmann,caitesch@gmail.com,ahidsa,mateo,animals,3,5th,Ms. Wojnar
+Lindsay,Maudlin,lcmaudlin@ncsu.edu,emmanuel,martinez,weather,3,5th,Ms. Wojnar
+Katie,Martin,martin.katherine.rose@gmail.com,Meagan,Kayser,animals,3,5th,Ms. Wojnar
+Alexandra,Colon-Rodriguez,acolonrodriguez@ucdavis.edu,Zavier,Carter,the brain,3,5th,Ms. Wojnar
+Jennifer,Ngo,jngo@chem.ucla.edu,Ja'Nez,Thomas,the human body,3,5th,Ms. Wojnar
+Kristen,Prufrock,kristen.prufrock@jhmi.edu,Alexander,Rodriguez,animals,3,5th,Ms. Wojnar
+Elise,Elwood,ecelwood@ucdavis.edu,David,Munoz Ruiz,plants,3,5th,Ms. Wojnar
+Courtney,Swink,cjs94@duke.edu,Keirra,Williams,computers,3,5th,Ms. Wojnar
+Laurie ,Bayet,lauriebayet@gmail.com,Anaid,Saltos,anaimals,3,5th,Ms. Wojnar
+Andrea,Chavez,chavezest@gmail.com,yasmeen,Ibraheim,the environment,3,5th,Ms. Wojnar
+Julie,Reynolds,julierey52@hotmail.com,Anaid,Saltos,animals,3,5th,Ms. Wojnar
+Jessica,Brandt,jessica.brandt@duke.edu,abraham,sanchez,energy,3,5th,Ms. Wojnar
+Vlad,Tchompalov,vlad.tchompalov@gmail.com,cristian,simon,computers,3,5th,Ms. Wojnar
+Torben,Hansen,torbenhansen@gmx.de,Raymond,Hernandez,computers,3,5th,Ms. Wojnar
+Kasey,Cargill,krc90@pitt.edu,Vanessa,Bajana,medicine,3,5th,Ms. Wojnar
+Staci,Amburgey,sma279@psu.edu,Savannah,Rogers,animals,3,5th,Ms. Wojnar
+Wendy,Kordesch,wendykordesch@gmail.com,Nicholas,Ritzenthaler,oceans,3,5th,Ms. Wojnar
+Becca,Thomas-Kuzilik,bthomaskuzilik@gmail.com,julian,herrera,animals,3,5th,Ms. Wojnar
+Hadallia,Bergeron,hadallia.bergeron@gmail.com,jack,geretz,machines,3,5th,Ms. Wojnar
+Rebecca,Krall,rfk12@pitt.edu,Brody,Clantz,the brain,3,5th,Ms. Wojnar
+Alexandra,Brumberg,brumberg@u.northwestern.edu,Grayson,Kiser,matter,3,5th,Ms. Wojnar
+Tamara,Walsky,twalsky@yahoo.com,Mario,Benitez,no,3,5th,Ms. Wojnar
+Claire,Price,c.l.price@swansea.ac.uk,sandra,tinajero,chemicals,3,5th,Ms. Wojnar
+Juliana,Mesa,jmesagar@umich.edu,Miguel,Bravo,rocks,3,5th,Ms. Wojnar
+Emily,Lescak,elescak@alaska.edu,xino,quito,animals,3,5th,Ms. Wojnar
+Christine,Howlett,twster55@gmail.com,Arisbeyda ,Roman-lopez,weather,3,5th,Ms. Wojnar
+Alexander,Wheatley,alexander.wheatley@duke.edu,omar,aburto,rocks,3,5th,Ms. Wojnar
+Katherine,Zodrow,kzodrow@gmail.com,Mario,Benitez,machines,3,5th,Ms. Wojnar
+Kristin,Beaumont,kgbeaumont@gmail.com,Thomas,Chime,engineering,3,5th,Ms. Wojnar
+Malini,Suchak,suchakm@canisius.edu,morgan,kayser,animals,3,5th,Ms. Wojnar
+Brooke,Bender,BRB173@pitt.edu,Alexis,Gonzalez,the brain,3,5th,Ms. Wojnar
+Suthira,Owlarn,suthira.owlarn@gmail.com,arely,sepulveda,animals,3,5th,Ms. Wojnar
+Siobhan,Crilly,siobhan.crilly@manchester.ac.uk,alexis,gonzalez,the brain,3,5th,Ms. Wojnar
+Melissa,Beers,mbeers@wellesley.edu,Oscar,Benitez,computers,3,5th,Ms. Wojnar
+Priya,Pillai,prpillai@ncsu.edu,Jonathan,Barron,weather,3,5th,Ms. Wojnar
+Natasha,Vokhshoori,nvokhsho@ucsc.edu,yarezly,cortez,oceans,3,5th,Ms. Wojnar
+Arianna,Piccialli,apic79@gmail.com,mariana,rodriguez,space,3,5th,Ms. Wojnar
+Megan,May,megkmay@gmail.com,jennifer,pineda,the environment,3,5th,Ms. Wojnar
+Sydney,Rosenblum,slrosen@umich.edu,Alan,rojas,chemicals,3,5th,Ms. Wojnar
+Rachel,Lippert,rachel.lippert@gmail.com,christian,reyna,engineering,3,5th,Ms. Wojnar
+Daniel,Hickox-Young,dhickoxyoung@gmail.com,Eric,Elder,matter,3,5th,Ms. Wojnar
+Teresa,Monkkonen,teresa.monkkonen@ucsf.edu,Ray,Ford,Video games,3,5th,Ms. Wojnar
+Jennifer,Berry,jebe6653@colorado.edu,nicholas,wagner,computers,3,5th,Ms. Wojnar
+Rebecca,Cain,cainrebe@msu.edu,christian,bearden,forensics,3,5th,Ms. Wojnar
+Michael,Carlo,mcarlo@clemson.edu,Jonathan ,Ortiz,animals,3,5th,Ms. Wojnar
+Lauren,Wood,woodlk@vcu.edu,Javier,Diaz,computers,3,5th,Ms. Wojnar
+Karla,Sosa,ks378@duke.edu,Javier,Diaz,computers,3,5th,Ms. Wojnar
+Dorothy,Lewis,dlewis@bcm.edu,Jennifer,Tapia Diaz,computers,3,5th,Ms. Wojnar
+Laura,Klein,ldklein2@gmail.com,Durrell,adams,the human body,3,5th,Ms. Wojnar
+Olivia,Winokur,ocwinokur@ucdavis.edu,Michelmis,Suarez,computers,3,5th,Ms. Wojnar
+Todd,Pierson,twpierson@gmail.com,Helen,Cabrera,animals,3,5th,Ms. Wojnar
+Megan,Isadore,megan@riverotterecology.org,Yoelly,Ulerio,animals,3,5th,Ms. Wojnar
+Eryn,McFarlane,eryn.mcfarlane@ebc.uu.se,Jessica,Leon,animals,3,5th,Ms. Wojnar
+Tanja,Zerulla,Tanja.Zerulla@gmail.com,Dominique,Bailey,animals,3,5th,Ms. Wojnar
+Suzanne,Segerstrom,segerstrom@uky.edu,saniya,cottrell,computers,3,5th,Ms. Wojnar
+Stephanie,Castle,stcastle@ucdavis.edu,Yana,Patel,energy,3,5th,Ms. Wojnar
+Lauren,Himmel,laurenehimmel@gmail.com,Comyah,Roberts,animals,3,5th,Ms. Wojnar
+Timothy,Treuer,treuer@princeton.edu,Modesto,Vega,the environment,3,5th,Ms. Wojnar
+Kevin,Levine,levine.kevin@pitt.edu,Anaiyah,Frederick,medicine,3,5th,Ms. Wojnar
+Jorge ,Becerra,jbecerra@umich.edu,Teanni,Durant,chemicals,3,5th,Ms. Wojnar
+Leila,Fouda,lfouda@gmail.com,Axiel,Acetty,computers,3,5th,Ms. Wojnar
+Hannah,MacDonald,hjmacdonald@unm.edu,Jeffrey,Kamos,computers,3,5th,Ms. Wojnar
+Chris,Walthers,walthers2@gmail.com,Marquis,Monday,the human body,3,5th,Ms. Wojnar
+Rebecca,Pollet,rebeccapollet@gmail.com,Chris,Arzu,chemicals,3,5th,Ms. Wojnar
+Tyler,Cassidy,tyler.cassidy@mail.mcgill.ca,Tabitha,Mota,the human body,3,5th,Ms. Wojnar
+Meredith,Semel,merak91@vt.edu,Issiah,Day,animals,3,5th,Ms. Wojnar
+Kayla,Lavan,kaylamlavan@gmail.com,Sandra,Boafo,chemicals,3,5th,Ms. Wojnar
+Pati,Stan,pls23@pitt.edu,Edna,Edwards,animals,3,5th,Ms. Wojnar
+Rosario ,Marroquin-Flores,rmarroquin03@gmail.com,Angelique,Ruiz,animals,3,5th,Ms. Wojnar
+Meredith,Holgerson,mholgerson@pdx.edu,abdoul,diallo,animals,3,5th,Ms. Wojnar
+Hannah,Babbini,hschulha@nd.edu,rosalind,osei-bonsu,chemicals,3,5th,Ms. Wojnar
+Adeolu,ADEROJU,adeoluaderoju@gmail.com,justin,morfin,space,3,5th,Ms. Wojnar
+Kevin,Ortiz,kdortiz@umich.edu,treshawn ,minot,space,3,5th,Ms. Wojnar
+Luke,Sadergaski,lsaderga@nd.edu,kairi,perez,chemicals,3,5th,Ms. Wojnar
+Morgan,Vis,vis-chia@ohio.edu,daniel,ramirez,computers,3,5th,Ms. Wojnar
+Brittany,Grimm,blg5044@gmail.com,raoul,edwards,space,3,5th,Ms. Wojnar
+Kyle,Bantz,kyle.bantz@gmail.com,jeremy,figueroa,chemicals,3,5th,Ms. Wojnar
+Anna,Feitzinger,afeitzinger@ucdavis.edu,kelis,montgomery,animals,2,5th,Ms. Wojnar
+Emily,OChiu,eochiu@ifpc.com,mahawa,jabbie,the human body,2,5th,Ms. Wojnar
+Justin,Randall,justrand@umich.edu,Nathan,Johnson,animals,2,5th,Ms. Wojnar
+Emily,Johnson,emj49548@uga.edu,Samantha,Cruz,animals,2,5th,Ms. Wojnar
+Megan,Brown,Megan.R.Brown@colorado.edu,Antonyus,Fredrick,space,2,5th,Ms. Wojnar
+Sander,Denham,sodenham@gmail.com,Tamari ,Hubbard,computers,2,5th,Ms. Wojnar
+Devon,O'Rourke,devon.orourke@gmail.com,Jessie,Morales,computers,2,5th,Ms. Wojnar
+Kayla,Miller,kayimill@indiana.edu,Gloria,Garcia,animals,2,5th,Ms. Wojnar
+Maximilian,Larter,maximilian.larter@gmail.com,joey,iraheta,plants,2,5th,Ms. Wojnar
+Cora,Mukerji,cora.mukerji@gmail.com,Julio,Ventura,engineering,2,5th,Ms. Wojnar
+Christine,Chen,ccy@mit.edu,Julio,Ventura,engineering,2,5th,Ms. Wojnar
+Liana,Boop,liana.boop@sjcd.edu,Haniha,Jimenez,space,2,5th,Ms. Wojnar
+Josh,Urso,JHU4@pitt.edu,Madelyn,Machic,chemicals,2,5th,Ms. Wojnar
+Mimi,Ho,mimilinh@ucla.edu,carlos,morales,dinosaurs,2,5th,Ms. Wojnar
+Ryan,Staudt,rps37@pitt.edu,ezra,sanchez,engineering,2,5th,Ms. Wojnar
+Gokay,Yamankurt,gokay@u.northwestern.edu,jayden,thomas,chemicals,2,5th,Ms. Wojnar
+Tyson ,Paulson,TPaulson@vols.utk.edu,Sofia,Velasquez,engineering,2,5th,Ms. Wojnar
+Alexandra,Mably,amably@austin.utexas.edu,Emmy,Henriquez,nail artist,2,5th,Ms. Wojnar
+Marian,Hamilton,mih5002@gmail.com,manny,martinez,computers,2,5th,Ms. Wojnar
+Song,Ong,weisong.o@gmail.com,Melanie,Herrera,animals,2,5th,Ms. Wojnar
+Kevin,Maringer,maringer.k@gmail.com,Oliver,Martinez,computers,2,5th,Ms. Wojnar
+Sahitya,Injamuri,sahi.injamuri@gmail.com,braden,moore,chemicals,2,5th,Ms. Wojnar
+Jennifer,Haskell,jmhaskell@ucdavis.edu,ian,oakley,the environment,2,5th,Ms. Wojnar
+Kaitlyn,Davis,kada5843@colorado.edu,Angela,Cruz,computers,2,5th,Ms. Wojnar
+Nick,Anderson,nlndrsn2@illinois.edu,francis,leal,animals,2,5th,Ms. Wojnar
+Katelyn,Bobbitt,katelyn.n.bobbitt@gmail.com,Khaya ,Blalock,the human body,2,5th,Ms. Wojnar
+Heather,Eggleston,hle15@tamu.edu,jennifer,luevanos,engineering,2,5th,Ms. Wojnar
+Anh,Tran,aktran@umn.edu,katie,sipek,animals,2,5th,Ms. Wojnar
+Hanna,Starobinets,hkuznet@alum.mit.edu,Mariksa,Becerra,computers,2,5th,Ms. Wojnar
+Nina,Hoeyland-Kroghsbo,ninah@princeton.edu,davion,west,computers,2,5th,Ms. Wojnar
+Jennifer,White,jcwhite488@gmail.com,keirra,ballom,medicine,2,5th,Ms. Wojnar
+Deborah,Lichti,lichtid12@students.ecu.edu,Tahirah,Griffin,oceans,2,5th,Ms. Wojnar
+Lincoln,Gray,graylc@jmu.edu,Shiana,Blanks,writer,2,5th,Ms. Wojnar
+Lisa,Clark,ljc32@pitt.edu,Anthony,Vasquez,computers,2,5th,Ms. Wojnar
+Amalia,Harrington,amalia.harrington@maine.edu,Diana,Santiago,oceans,2,5th,Ms. Wojnar
+Laura,Guertin,guertin@psu.edu,Shamara,White,oceans,2,5th,Ms. Wojnar
+Hannah,Miller,hannahelysemiller@gmail.com,Andrea,Rufus,animals,2,5th,Ms. Wojnar
+Dalina,Thrift-Viveros,dalina.viveros@noaa.gov,dominique,walley,chemicals,2,5th,Ms. Wojnar
+Kelsey,Winsor,kelsey.winsor@gmail.com,Jonathan,Rivera,space,2,5th,Ms. Wojnar
+Erin,Garcia,egarci14@uw.edu,Stephane,Kelly,animals,2,5th,Ms. Wojnar
+Sarah,Wong,juncos@livemail.uthscsa.edu,Akaylah,Gant,medicine,2,5th,Ms. Wojnar
+Corbin,Cannon,corbin.cannon2@yahoo.com,Josh,Kaleab,space,2,5th,Ms. Wojnar
+Casey,Campetti,casey.campetti@aecom.com,Cristian,Vega,speed,2,5th,Ms. Wojnar
+Amanda,Guthrie,amanda.guthrie.805@gmail.com,damarys,jorge,the environment,2,5th,Ms. Wojnar
+Christen,Deveney,cdeveney@wellesley.edu,sherlyn,solano,computers,2,5th,Ms. Wojnar
+Ayla,Pamukcu,aylasp@gmail.com,Arianna,gibbs,space,2,5th,Ms. Wojnar
+Allessandra,DiCorato,allessandradicorato2015@u.northwestern.edu, Brad,Salazar,medicine,1,5th,Ms. Wojnar
+Rose,Palermo,rpalermo@mit.edu,Kim,Bravo,space,1,5th,Ms. Wojnar
+Bethany,Belmonte,Belmonte.Bethany@gmail.com,Anesxa,Polanca,computers,1,5th,Ms. Wojnar
+Brittany,Mosher,mosher.brittany@gmail.com,Emily,Beltran,Art science,1,5th,Ms. Wojnar
+Emily,Moberg,emily.a.moberg@gmail.com,khadyja,ndiaye,animals,1,5th,Ms. Wojnar
+Erin,Larson,eil23@cornell.edu,khadyja,ndiaye,animals,1,5th,Ms. Wojnar
+Anne,Savereide,anne.savereide@gmail.com,Matthew,Barrera,computers,1,5th,Ms. Wojnar
+Rebecca,Lauzon,rebecca.lauzon@duke.edu,David,Quim,space,1,5th,Ms. Wojnar
+Charlotte,Alster,charlotte.alster@uci.edu,Danna,Perez,energy,1,5th,Ms. Wojnar
+Kirsten,Dorans,kirsten.dorans@gmail.com,Melanie,Padilla,the human body,1,5th,Ms. Wojnar
+Carrie,Crozier,cglavich@gmail.com,Jeremy,Solis,rocks,1,5th,Ms. Wojnar
+Hollen,Reischer,hollen@u.northwestern.edu,Kimberly,Rosales,chemestry,1,5th,Ms. Wojnar
+Abigail,Cahill,aecsk8gr8@yahoo.com,Brittany,Cortes,animals,1,5th,Ms. Wojnar
+Amanda,Franklin,amanda.franklin@tufts.edu,Emiliano,Paez,animals,1,5th,Ms. Wojnar
+Karin,van der Wiel,karinvdwiel@hotmail.com,Katie,Corzo,weather,1,5th,Ms. Wojnar
+Kent,Connell,rkconnell@ksu.edu,Melanie,Castillo,computers,1,5th,Ms. Wojnar
+Adrian,Dahood,adahood@gmail.com,Katie,Corzo,animals,1,5th,Ms. Wojnar
+Laila,Roudsari,lroudsari@unither.com,Taryn,key,computers,1,5th,Ms. Wojnar
+Caroline,David,caroline.david001@umb.edu,dayshawn,braxton,the brain,1,5th,Ms. Wojnar
+Mitchell,Feldmann,mjfeldmann@ucdavis.edu,cory,preston,computers,1,5th,Ms. Wojnar
+Chequita,Brooks,brooksch16@students.ecu.edu,mark,glaspy,lego's,1,5th,Ms. Wojnar
+Erin,Hegberg,hegberg@unm.edu,miguel,guerrero,space,1,5th,Ms. Wojnar
+Samantha,Sharpe,sharpes@ksu.edu,Zayith,Fernandez,plants,1,5th,Ms. Wojnar
+Kelsey,Fisher,kelseyfisher2@gmail.com,aiden,coder,animals,1,5th,Ms. Wojnar
+Stephanie,Griffin,stephgriffin64@gmail.com,cora,ours,chemicals,1,5th,Ms. Wojnar
+J,Whitehead,jlwwhitehead@gmail.com,monica,joseph,medicine,1,5th,Ms. Wojnar
+Zach,Popkin-Hall,zpopkinh@tamu.edu,monica,joseph,medicine,1,5th,Ms. Wojnar
+Susannah,Tysor,susannah@pobox.com,ivan,vertiz,computers,1,5th,Ms. Wojnar
+Lisa,Fultz,lfultz@agcenter.lsu.edu,asia,taylor,engineering,1,5th,Ms. Wojnar
+Chelsea,Merkel,cmerkel2491@gmail.com,ruben,carbajal,something else: detective,1,5th,Ms. Wojnar
+Rigney,Turnham,rturnham12@gmail.com,tykari,humphrey,medicine,1,5th,Ms. Wojnar
+Liana,Nice,liana.nice@gmail.com,angel,washington,machines,1,5th,Ms. Wojnar
+Jon,Puritz,jpuritz@gmail.com,ruben,carbajal,animals,1,5th,Ms. Wojnar
+Ximena,Bonilla,ximenabonilla@gmail.com,raylie,black,the human body,1,5th,Ms. Wojnar
+Simone,Hasenbein,simonehasenbein@gmail.com,lanazia,m,chemicals,1,5th,Ms. Wojnar
+Sarah,Turpin,Sarah.Turpin-Nolan@sf.mpg.de,raylie,black,the human body,1,5th,Ms. Wojnar
+Morgan,Rubanow,morgan.rubanow@gmail.com,Jonnescia,Ford,animals,1,5th,Ms. Wojnar
+Deepa,Issar,deepaissar@gmail.com,michael,hall,engineering,1,5th,Ms. Wojnar
+Deepa,Ramamurthy,dlramamurthy@ucdavis.edu,Ja'veon,smith,animals,1,5th,Ms. Wojnar
+Jill,Weeks,jillian.j.weeks@pitt.edu,mikiah,webb,the brain,1,5th,Ms. Wojnar
+Adam,Smoulder,asmoulder3195@gmail.com,mikiah,webb,the brain,1,5th,Ms. Wojnar
+Patricia,Illoldi-Rangel,patz30@gmail.com,Eric,Garcia,animals,1,5th,Ms. Wojnar
+Devin,Humpal,devin.humpal@gmail.com,Ayanna,McCoy,the human body,1,5th,Ms. Wojnar
+Olivia,Bernard,oliviarbernard@gmail.com,Anissa,Whetstone,animals,1,5th,Ms. Wojnar
+Larissa,Herrera,risahary@gmail.com,matthew,lindsey,energy,1,5th,Ms. Wojnar
+Allison,Dedrick,agdedrick@gmail.com,Yulian,Batista,computers,1,5th,Ms. Wojnar
+Athena,Papasodero,apapasod@uci.edu,Isaiah,Santiago,computers,1,5th,Ms. Wojnar
+Megan,Wheeler,mmwheele@asu.edu,victor,davila,computers,1,5th,Ms. Wojnar
+Courtney,Kulig,ckulig12@gmail.com,odany,pimental,chemicals,1,5th,Ms. Wojnar
+Cyler,Conrad,cylerc@unm.edu,isis,guzman,animals,1,5th,Ms. Wojnar
+Jacqueline,Gerson,jgerson1@gmail.com,jared,norman,chemicals,1,5th,Ms. Wojnar
